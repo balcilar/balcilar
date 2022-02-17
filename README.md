@@ -1,5 +1,6 @@
 Hi there,
-🔭 I’m currently working on Graph Neural Networks and Neural Image/Video Compression.
+
+I’m currently working on Graph Neural Networks and Neural Image/Video Compression.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balcilar&theme=dark&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
