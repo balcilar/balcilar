@@ -2,19 +2,10 @@ Hi there,
 
 I’m currently working on Graph Neural Networks and Neural Image/Video Compression.
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balcilar&theme=dark&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-**balcilar/balcilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=balcilar" alt="balcilar" /> 
+    <img src="https://img.shields.io/github/followers/balcilar?style=social" />
+    <img src="https://img.shields.io/github/stars/balcilar/balcilar?style=social" />
+    <img src="https://img.shields.io/github/watchers/balcilar/balcilar?style=social" />
+  
+</p>
